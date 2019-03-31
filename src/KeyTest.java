@@ -1,3 +1,4 @@
+package ftt.ec;
 
 public class KeyTest {
 	
